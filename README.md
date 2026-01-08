@@ -9,7 +9,18 @@ This Chrome extension analyzes job postings on popular platforms to identify whe
 
 The extension uses the Gemini AI API to accurately parse job descriptions and provide a quick visual indicator via color-coded badges.
 
-## 🔑 How to get your Gemini API Key
+## � Installation
+Since this extension is in development, you can install it manually in Google Chrome:
+
+1. Download or clone this repository to your local machine.
+2. Open Google Chrome and navigate to `chrome://extensions/`.
+3. In the top right corner, enable **Developer mode**.
+4. Click the **Load unpacked** button.
+5. Select the folder containing this extension's files.
+6. The extension should now appear in your list of extensions and be active!
+
+
+## �🔑 How to get your Gemini API Key
 To use this extension, you need a Gemini API key. Follow these steps:
 
 1. Visit [Google AI Studio](https://aistudio.google.com/app/apikey).
